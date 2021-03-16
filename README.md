@@ -20,8 +20,53 @@ https://developer.android.com/training/sign-in/biometric-auth - quick tutorial f
 ## Security of biometrics use
 https://www.csoonline.com/article/3339565/what-is-biometrics-and-why-collecting-biometric-data-is-risky.html - An Article about security of biometrics, and why is so dangerous.
 
+##### Common types of biometrics:
+
+- Fingerprints
+
+- Photo and video
+
+- Physiological recognition
+
+- Voice
+
+- Signature
+
+- DNA
+
+
+##### Uncommon types:
+
+- Typing patterns
+
+- Physical movements
+
+- Navigation patterns
+
+- Engagement patterns
+
+
+##### How reliable is biometrics authentication?
+"Experts recommend that companies use multiple types of authentication simultaneously and escalate quickly if they see warning signs. 
+
+For example, if the fingerprint is a match but the face isn't, or the account is being accessed from an unusual location at an unusual time, 
+
+it might be time to switch to a backup authentication method or a second communication channel."
+
+
 ## Articles Collection 
 https://findbiometrics.com/featured-articles/ - Website with articles showing the biometrics future.
+
+
+##### Our data security
+"Today, smartphone hardware security modules are used to provide security for Apple Pay, 
+
+Google Pay and Samsung Payas well as to authenticate third-party applications. 
+
+PayPal, for example, can use a phone's biometric sensor for authentication without PayPal ever seeing the actual biometric data itself. 
+
+Square Cash, Venmo, Dropbox and many banking apps and password management apps leverage this authentication mechanism as well."
+
 
 
 ## The Future of biometrics
