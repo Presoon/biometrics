@@ -1,9 +1,10 @@
 # biometrics
 
+##### Laboratory
 
-### Lab1
 
 
+### Links with content about biometrics
 
 https://www.csoonline.com/article/3339565/what-is-biometrics-and-why-collecting-biometric-data-is-risky.html - An Article about security of biometrics, and why is so dangerous.
 
