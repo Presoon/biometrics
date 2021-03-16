@@ -27,3 +27,5 @@ https://developer.android.com/training/sign-in/biometric-auth - quick tutorial f
 https://www.youtube.com/watch?v=w2l8HIhDy_s - Madhumita Murgia - lecture about biometrics threads and business that big companies and government have in collecting biometric data of people.
 
 https://www.youtube.com/watch?v=0DHywidLX6A - Simona Francese - lecture about how many we can learn from single fingerprint and how police use these information for investigation.
+
+https://www.youtube.com/watch?v=ZPG3XQhZVII -  DW Shift - How secure is Biometric Authentication Technology and Biometric Data?
