@@ -2,27 +2,29 @@
 
 ##### Laboratory
 
-
-
 ### Links with content about biometrics
 
 
-
+## What is biometrics?
 https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/inspired/biometrics - the article contains definition, trends, use cases, laws and latest news about biometrics.
-test
 
+
+## Biometrics tutorial
 https://www.javatpoint.com/biometrics-tutorial - the website contains general information about biometrics history, advantages and disadvantages, type, and examples of uses in cryptography or machine learning.
 
+
+## BiometricsManager in Android
 https://developer.android.com/training/sign-in/biometric-auth - quick tutorial for using biometric authentication in the android system.
 
 
-
+## Security of biometrics use
 https://www.csoonline.com/article/3339565/what-is-biometrics-and-why-collecting-biometric-data-is-risky.html - An Article about security of biometrics, and why is so dangerous.
 
-
+## Articles Collection 
 https://findbiometrics.com/featured-articles/ - Website with articles showing the biometrics future.
 
 
+## The Future of biometrics
 https://recfaces.com/articles/biometric-trends - An article about the usefulness of biometrics now and in the future 
 
 
