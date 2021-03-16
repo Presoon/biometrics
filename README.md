@@ -67,7 +67,16 @@ Square Cash, Venmo, Dropbox and many banking apps and password management apps l
 ## The Future of biometrics
 https://recfaces.com/articles/biometric-trends - An article about the usefulness of biometrics now and in the future 
 
+##### Potential uses of biometrics:
+Mobile Payment & Online Banking - Biometric data used to identify users (facial recognition and retinal scans) is one of biometric trends in global Internet banking.
 
+Immigration Services - Face recognition technologies and fingerprints are used for passenger boarding and for baggage check-in.
+
+Covering Government Needs - used for border control and counter-terrorism purposes. Used by law enforcement agencies to identify a person with a high degree of accuracy.
+
+Staff Management - Besides this, using biometrics to identify employees can increase employee accountability, which will directly lead to increased productivity.
+
+Health Care and Social Assistance -  Biometric identification of patients optimizes the treatment process and virtually eliminates the possibility of errors.
 
 
 #### Videos
