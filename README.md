@@ -9,6 +9,7 @@
 
 
 https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/inspired/biometrics - the article contains definition, trends, use cases, laws and latest news about biometrics.
+test
 
 https://www.javatpoint.com/biometrics-tutorial - the website contains general information about biometrics history, advantages and disadvantages, type, and examples of uses in cryptography or machine learning.
 
